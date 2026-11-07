@@ -132,12 +132,12 @@ Real-time F1 and F2 live timing dashboard with a prediction engine. Bun + TypeSc
 ## `$ git log --stat`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zabrodsk&bg_color=0d0b1a&color=c4b5fd&line=7c3aed&point=67e8f9&area=true&area_color=7c3aed&hide_border=true&radius=12" alt="Contribution graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zabrodsk&theme=tokyonight" alt="Contribution summary" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zabrodsk&theme=tokyonight&hide_border=true&background=0d0b1a&ring=7c3aed&fire=f43f5e&currStreakLabel=67e8f9&border_radius=12" alt="GitHub streak" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabrodsk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0b1a&title_color=c4b5fd&border_radius=12&langs_count=8" alt="Top languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zabrodsk&theme=tokyonight" alt="Repos per language" height="170" />
 </p>
 
 <div align="center">
